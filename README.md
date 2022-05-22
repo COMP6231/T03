@@ -8,10 +8,10 @@ for the local host:
 
 Server
 - cd to the directory where "com" folder is: 
-- **javac -d output com/comp6231/lab3/server/GreeterServerExample.java**
-- **java -cp output com/comp6231/lab3/server/GreeterServerExample**
+- compiling: **javac -d output com/comp6231/lab3/server/GreeterServerExample.java**
+- running: **java -cp output com/comp6231/lab3/server/GreeterServerExample**
 
 Client 
 - cd to the directory where "com" folder is: 
-- **javac -d output com/comp6231/lab3/client/ClientPDP.java**
-- **java -cp output/ com/comp6231/lab3/client/ClientPDP**
+- compiling: **javac -d output com/comp6231/lab3/client/ClientPDP.java**
+- running: **java -cp output/ com/comp6231/lab3/client/ClientPDP**
